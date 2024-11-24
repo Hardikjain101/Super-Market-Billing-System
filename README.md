@@ -41,5 +41,4 @@ I welcome suggestions and contributions to improve this project. Feel free to cr
 
 ---
 
-### License
-This project is licensed under the MIT License.
+
